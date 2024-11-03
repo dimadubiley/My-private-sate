@@ -1,0 +1,76 @@
+@import url(./links.css);
+
+body {
+    background: #effff3;
+}
+
+main
+{
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#discordLogo {
+    width: 35px;
+    height: 25px;
+    display: inline;
+}
+
+footer {
+    margin-top: 150px;
+    background: #a8ffba60;
+    padding: 20px;
+}
+
+.urlOnFooter {
+    display: inline;
+    padding-top: 5px;
+    margin-left: 10px;
+}
+
+#discordDiv {
+    display: flex;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    display: flex;
+    justify-content: center;
+
+    font-family: "Prata", serif;
+    font-size: 25px;
+    font-style: normal;
+
+    margin-bottom: 50px;
+}
+
+p,
+a {
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    font-size: 15px;
+    font-style: normal;
+}
+
+.randomFack
+{
+
+    font-size: 20px;
+    margin: 0;
+    width: 300px;
+}
+
+#randomFack
+{
+    margin-top: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
